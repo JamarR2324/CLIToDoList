@@ -1,8 +1,8 @@
-# To-Do CLI 📝
+# To-Do List via Python
 
 A command-line based To-Do List Manager built in Python. Tasks are saved locally to a JSON file so your list is persistent.
 
-## ⚙️ Features
+## Features
 
 - Add new tasks
 - List all tasks
@@ -10,7 +10,7 @@ A command-line based To-Do List Manager built in Python. Tasks are saved locally
 - Delete tasks
 - Persistent task storage in `tasks.json`
 
-## 🧪 How to Use
+## How to Use
 
 ### Add a task
 ```bash
@@ -32,7 +32,7 @@ python main.py done 1
 python main.py delete 2
 ```
 
-## 🚀 Future Upgrades
+## Future Upgrades
 
 - Add due dates
 - Sort tasks
@@ -41,4 +41,4 @@ python main.py delete 2
 
 ---
 
-Built by Jamar 🧑‍💻
+Built by Jamar Robinson Jr.
